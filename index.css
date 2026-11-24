@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #f5f5f5;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  color: green;
+}
+
+p {
+  font-size: 16px;
+}
+
+h3 {
+  text-align: center;
+  color: red;
+}
